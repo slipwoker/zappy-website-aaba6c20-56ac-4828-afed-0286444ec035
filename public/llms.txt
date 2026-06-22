@@ -1,0 +1,105 @@
+# תמרא — Generative Engine Optimization Map
+
+> An online store specializing in the sale of headscarves (mitpachot), catering to customers looking for stylish and fashionable head coverings. The store focuses on e-commerce with a product catalog and shopping experience tailored for this niche fashion accessory market.
+
+---
+
+## Pages
+
+### בית
+https://-aaba6c20.zappy5.app
+חנות המטפחות המובילה לנשים דתיות שמחפשות סטייל ואיכות. קולקציית מטפחות ראש אופנתיות שמתאימות לכל מראה. היכנסי עכשיו לשדרג את ההופעה!
+
+### השראה לעיצוב
+https://-aaba6c20.zappy5.app/styling-inspiration
+מחפשת השראה לעיצוב מטפחת? גלי מדריכי סטיילינג, טיפים לקשירה וקומבינציות צבעים שיהפכו כל מטפחת לאמירה אופנתית. בואי להתאהב מחדש בכיסוי הראש שלך!
+
+### אודות המותג
+https://-aaba6c20.zappy5.app/about
+תמרא נולדה מאהבה למטפחות ולנשים שלובשות אותן. הכירי את החזון, האיכות והתשוקה שמאחורי המותג שמביא לך את מטפחות הראש הכי יפות ברשת.
+
+### צור קשר
+https://-aaba6c20.zappy5.app/contact
+יש שאלה על מטפחת? צרי קשר עם צוות תמרא לכל בקשה, ייעוץ סטיילינג או עזרה בהזמנה. אנחנו פה כדי להפוך את חוויית הקנייה שלך למושלמת!
+
+### Products
+https://-aaba6c20.zappy5.app/products
+המוצרים שלנו - תמרא
+
+### Cart
+https://-aaba6c20.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-aaba6c20.zappy5.app/checkout
+תשלום
+
+### Login
+https://-aaba6c20.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-aaba6c20.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-aaba6c20.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-aaba6c20.zappy5.app/product/:slug
+פרטי המוצר - תמרא
+
+### Category
+https://-aaba6c20.zappy5.app/category/:slug
+מוצרים - תמרא
+
+### תודה שפנית אלינו
+https://-aaba6c20.zappy5.app/thank-you
+תמרא - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-aaba6c20.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-aaba6c20.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-aaba6c20.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תמרא
+An online store specializing in the sale of headscarves (mitpachot), catering to customers looking for stylish and fashionable head coverings. The store focuses on e-commerce with a product catalog and shopping experience tailored for this niche fashion accessory market.
+
+## Target Audience
+- נשים דתיות יהודיות
+- נשים חובבות אופנה
+- קוני מתנות
+- משפעיניות דתיות
+
+## Industry
+E-commerce / Fashion Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-aaba6c20.zappy5.app/sitemap.xml
+- Robots: https://-aaba6c20.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-aaba6c20.zappy5.app/llms-full.txt
+- Products (JSON): https://-aaba6c20.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-aaba6c20.zappy5.app/product-feed.xml
